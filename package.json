@@ -1,0 +1,25 @@
+{
+  "name": "jgl-nodejs-ynov",
+  "version": "1.0.0",
+  "description": "projet de cours",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeCourse/github-leads-jeremygiral.git"
+  },
+  "author": "Jérémy Giral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeCourse/github-leads-jeremygiral/issues"
+  },
+  "homepage": "https://github.com/NodeCourse/github-leads-jeremygiral#readme",
+  "dependencies": {
+    "@octokit/rest": "^15.8.1",
+    "commander": "^2.15.1",
+    "csv": "^3.1.0",
+    "csv-generate": "^2.0.2",
+    "flatten-array": "^1.0.0"
+  }
+}
